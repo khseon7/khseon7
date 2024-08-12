@@ -9,8 +9,16 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=khseon7&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkrtjs5544)](https://solved.ac/gkrtjs5544/)
+### Algorithms
+<div style="display: flex; justify-content: space-between;">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkrtjs5544" alt="Solved.ac Profile" />
+  <img src="http://mazandi.herokuapp.com/api?handle=gkrtjs5544&theme=cold" alt="Mazandi Theme" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khseon7&layout=compact" alt="Top Langs" />
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=khseon7&show_icons=true&theme=tokyonight" alt="Anurag's github stats" />
+
+
 <!--
 **khseon7/khseon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
