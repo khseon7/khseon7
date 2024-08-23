@@ -13,7 +13,6 @@
 ### Algorithms
 <div style="display: flex; justify-content: space-between;">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkrtjs5544" alt="Solved.ac Profile" />
-  <img src="http://mazandi.herokuapp.com/api?handle=gkrtjs5544&theme=cold" alt="Mazandi Theme" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khseon7&layout=compact" alt="Top Langs" />
 </div>
 
