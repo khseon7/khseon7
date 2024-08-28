@@ -11,11 +11,7 @@
 
 ---
 ### Algorithms
-<div style="display: flex; justify-content: space-between;">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkrtjs5544" alt="Solved.ac Profile" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khseon7&layout=compact" alt="Top Langs" />
-</div>
-
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkrtjs5544" alt="Solved.ac Profile" />
 <img src="https://github-readme-stats.vercel.app/api?username=khseon7&show_icons=true&theme=tokyonight" alt="Anurag's github stats" />
 
 
