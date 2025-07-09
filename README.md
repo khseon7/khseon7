@@ -1,9 +1,17 @@
 ## <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="35" height="35" style="vertical-align: middle;" /> Welcome to my Github! 
+<p align='center'>
+LLM과 RAG 기술을 기반으로 다양한 문제 해결에 도전하고, 실제 서비스에 적용하는 것을 목표로 하는 신입 머신러닝 엔지니어입니다.</p>
+<p align='center'>
+I am a machine learning engineer in the department who aims to approach various solutions based on LLM and RAG technology and apply them to real services.
+</p>
+
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![TenserFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khseon7&layout=compact)
+
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
