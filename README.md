@@ -20,6 +20,7 @@ I am a machine learning engineer in the department who aims to approach various 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khseon7&layout=compact"/>
 </p>
+
 <div align='center'>
   <h2>Tools</h2>
 </div>
@@ -30,9 +31,10 @@ I am a machine learning engineer in the department who aims to approach various 
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
----
-### Algorithms
-<div style="display: flex; justify-content: space-between;">
+<div align='center'>
+  <h2>Algorithms</h2>
+</div>
+<div style="display: flex; justify-content: space-between;" align='center'>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkrtjs5544" alt="Solved.ac Profile" />
 </div>
 
