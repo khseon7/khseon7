@@ -18,7 +18,7 @@ I am a machine learning engineer in the department who aims to approach various 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khseon7&layout=compact" width=50%/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khseon7&layout=compact"/>
 </p>
 
 <div align='center'>
