@@ -2,9 +2,9 @@
   <h2>Welcome to my Github!</h2>
 </div>
 <p align='center'>
-LLM과 RAG 기술을 기반으로 다양한 문제 해결에 도전하고,<br> 실제 서비스에 적용하는 것을 목표로 하는 신입 **머신러닝 엔지니어**입니다.</p>
+LLM과 RAG 기술을 기반으로 다양한 문제 해결에 도전하고,<br> 실제 서비스에 적용하는 것을 목표로 하는 신입 머신러닝 엔지니어입니다.</p>
 <p align='center'>
-I am a **machine learning engineer** in the department who aims to approach various solutions based on LLM and RAG technology and apply them to real services.
+I am a machine learning engineer in the department who aims to approach various solutions based on LLM and RAG technology and apply them to real services.
 </p>
 
 <div align='center'>
