@@ -1,55 +1,44 @@
-<div align='center'>
-  <h2>Welcome to my Github!</h2>
-</div>
-<p align='center'>
-LLM과 RAG 기술을 기반으로 다양한 문제 해결에 도전하고,<br> 실제 서비스에 적용하는 것을 목표로 하는 신입 머신러닝 엔지니어입니다.</p>
-<p align='center'>
-I am a machine learning engineer in the department who aims to approach various solutions based on LLM and RAG technology and apply them to real services.
-</p>
+# 👋 About Me
 
-<div align='center'>
-  <h2>Platforms & Languages</h2>
-</div>
+보안 중심 클라우드와 온프레미스 환경을 기반으로  
+**실시간 데이터 파이프라인**과 **폐쇄망 LLM/RAG 시스템**을 직접 구현·운영하며 경험을 쌓아가고 있는 **주니어 개발자**입니다.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
-</p>
+기업의 민감 데이터를 보호하기 위한 **독립형 추론 환경**을 구성하고,  
+서비스 장애나 이상 징후 발생 시 **시스템 로그 · 네트워크 흐름 · OS 레벨**까지 추적하며 근본 원인을 파악합니다.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khseon7&layout=compact"/>
-</p>
+안정적인 **LLM 서비스 제공**과 **보안 요구사항**을 동시에 만족시키는  
+시스템 아키텍처를 이해하고 구현하는 것을 목표로 성장하고 있습니다.
 
-<div align='center'>
-  <h2>Tools</h2>
-</div>
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+---
 
-<div align='center'>
-  <h2>Algorithms</h2>
-</div>
-<div style="display: flex; justify-content: space-between;" align='center'>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gkrtjs5544" alt="Solved.ac Profile" />
-</div>
+## 🛠️ What I’m Working On
 
+- 🔒 **폐쇄망 LLM/RAG 시스템 구축**
+  - 외부 네트워크 차단 환경에서 LLM 및 RAG 파이프라인 구성
+  - 보안 요구사항을 실제 시스템 설계와 운영에 반영
 
-<!--
-**khseon7/khseon7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ **실시간 데이터 파이프라인**
+  - 데이터 처리 흐름 설계 및 병목 지점 분석
+  - 성능과 안정성 개선을 위한 구조적 개선
 
-Here are some ideas to get you started:
+- 🧩 **장애 분석 및 트러블슈팅**
+  - 애플리케이션, 시스템 로그, 네트워크, OS 레벨까지 분석
+  - 재현 → 원인 파악 → 개선 반복 경험
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ☁️ Infrastructure & Architecture
+
+- 🏗️ **보안 중심 클라우드 아키텍처**
+  - 접근 제어, 네트워크 분리, 독립형 추론 환경 설계
+
+- 🖥️ **온프레미스 운영**
+  - 클라우드와 차이를 비교하며 운영 관점 이해
+  - 장애 대응 및 리소스 관리 경험
+
+---
+
+## 📈 Growth Mindset
+
+- 운영 과정에서 발생한 문제 기록 및 개선 사항 반영
+- 단순 구현을 넘어 **구조적 이해와 최적화** 중심 학습
